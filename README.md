@@ -1,2 +1,3 @@
 # twitter-clone project
-## Посмотреть проект: twitter.webmonster.ml
+## view project: twitter.webmonster.ml
+
